@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">A2_231A010014</string>
+    <string name="title">Lab A2 – Đồng hồ bấm giờ</string>
+    <string name="student">Hà Gia Bảo – MSSV 231A010014</string>
+    <string name="zero_time">00:00.0</string>
+    <string name="start">Bắt đầu</string>
+    <string name="pause">Tạm dừng</string>
+    <string name="reset">Đặt lại</string>
+    <string name="status_running">Trạng thái: đang chạy</string>
+    <string name="status_paused">Trạng thái: tạm dừng</string>
+    <string name="recreate_count">Số lần Activity được tạo lại: %1$d</string>
+    <!-- Missing strings to resolve build errors in boiler plate layouts -->
+    <string name="next">Tiếp tục</string>
+    <string name="previous">Quay lại</string>
+    <string name="lorem_ipsum">Nội dung mẫu...</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="first_fragment_label">Màn hình 1</string>
+    <string name="second_fragment_label">Màn hình 2</string>
+</resources>
